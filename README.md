@@ -1,1 +1,1 @@
-# openshipt
+# openshift
